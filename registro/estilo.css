@@ -64,7 +64,7 @@ transform: translateY(-172px);
 }
 
 .btnregistro {
-    background-color: rgb(230, 178, 114);
+    background-color: #e5cfcf;
     translate: 215px;
     transform: translateY(-175px);
     
@@ -77,7 +77,7 @@ transform: translateY(-172px);
 }
 
 .btniniciar {
-    background-color: rgb(230, 178, 114);
+    background-color: #e5cfcf;
     translate: 168px;
     transform: translateY(-170px);
     width: 195px;

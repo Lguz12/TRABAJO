@@ -89,7 +89,7 @@ background-color: #431e15;
 
 
 .btnAcceder {
-    background-color: hsl(43, 68%, 53%);
+    background-color: #e5cfcf;
     border: none;
     width: 100px;
     font-size: 20px;
@@ -102,7 +102,7 @@ background-color: #431e15;
 }
 
 .micuenta {
-    background-color: #d9ac36;
+    background-color: #e5cfcf;
     translate: 10px;
 }
 
