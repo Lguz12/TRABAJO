@@ -1,0 +1,292 @@
+@font-face {
+    font-family: 'forum';
+    src: url(Forum/Forum-Regular.ttf);
+}
+
+a{
+    font-family: 'Forum';
+  }
+  h5{
+    font-family: 'Forum';
+  }
+  p{
+    font-family: 'Forum';
+  }
+  .color_barranav{
+ 
+    background-color: #e5cfcf;
+    height:80px ;
+    
+}
+.medida{
+    width: 60px;
+    height: 60px;
+}
+.bgcolor{
+    background-color:  #F5E8D2;
+}
+.bagico{
+  background-color: #deb4b4e7;
+}
+
+.imagen{
+    transition: .5s, color .10s;
+        -webkit-transition: .5s, color .10s;
+        -moz-transition: .5s, color .10s;
+}
+.imagen:hover{
+    transform: scale3d(1.3, 1.3, 0.3);
+        -webkit-transform: scale3d(1.3, 1.3, 0.3);
+        -moz-transform: scale3d(1.3, 1.3, 0.3);
+}
+.letra{
+    font-size: 19px;
+}
+
+
+    .icono{
+        font-size: 24px;
+        transition: .5s, color .10s;
+            -webkit-transition: .5s, color .10s;
+            -moz-transition: .5s, color .10s;
+    }
+    .icono:hover{
+        transform: scale3d(1.9, 1.9, 0.3);
+            -webkit-transform: scale3d(1.9, 1.9, 0.3);
+            -moz-transform: scale3d(1.9, 1.9, 0.3);
+    }
+
+   .tamañoimagen{
+    width: 300px;
+    height: 340px;
+   }
+   @media (max-width: 994px) {
+    .nav-item, .iconos1{
+      display: none!important ; 
+    }
+    .barrita{
+      display: flex !important;
+    }
+
+   }
+
+
+
+
+
+.estiloLetra {
+    font-family: 'Forum';
+    font-weight: bold;
+
+}
+
+
+.decoracion {
+    text-decoration: none;
+}
+
+.fondo1 {
+    background-color: #e9e6e1;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-image: url(img/fondoangystyle.jpg);
+   
+}
+
+
+.caja0 {
+    width: 0px;
+}
+
+
+
+
+.titulo1 {
+    width: 203.69px;
+    font-size: 40px;
+    font-family: 'forum';
+    color: #000;
+}
+
+.caja1{
+    width: 381.98px;
+}
+
+.contenedor1 {
+    width: 381.98px;
+}
+.contenedor2 {
+    width: 381.98px;
+}
+
+.detalleP1 {
+    width: 182.22px;
+}
+
+.detalleP2 {
+    width: 341.42px;
+}
+
+.titulo2 {
+   
+    width: 146.2px;
+    font-size: 40px;
+    font-family: 'forum';
+    color: #000;
+}
+.caja2 {
+    width: 379.98px;
+}
+
+.detalleP3 {
+    width: 162.8px;
+}
+
+.detalleP4 {
+    width: 166.41px;
+}
+
+
+.titulo3 {
+    width: 291.92px;
+    font-size: 40px;
+    font-family: 'forum';
+    color: #000;
+}
+
+.caja3 {
+    width: 399.98px;
+
+}
+
+.contenedor3 {
+    width: 379.98px;
+    color: #969696;
+
+}
+
+.contenedor4 {
+    width: 379.98px;
+    color: #969696;
+
+}
+
+.linea {
+    height: 1px;
+    width: 50px;
+    background-color: #000;
+}
+
+
+
+.imgcontacto {
+    padding: 0;
+    margin: 0;
+    width: 700px;
+    margin-left: -394px;
+}
+
+
+.cajcontac {
+    font-size: 27px;
+}
+
+.formulario {
+    width: 535px;
+    height: 0px;
+    font-family: 'forum';
+    font-size: 30px;
+    color: #969696;
+
+}
+
+.mshbtn {
+    border: #e5cfcf;
+    background-color:#e5cfcf ;
+}
+
+.cajaMsj {
+    padding: 35px;
+
+}
+
+.cajaHorario {
+    padding: 10px;
+    margin: 2px
+}
+.cajaHorario1 {
+    padding: 0px;
+    margin: 2px;
+}
+
+.logow {
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+   
+
+
+
+
+  
+
+
+
+
+
+.margen_footer{
+  margin-top: 200px;
+}   
+
+
+.padding-right { padding-right:10px; }
+
+.footer_ul2_amrc {margin:0px; list-style-type:none; padding:0px;}
+.footer_ul2_amrc li p { display:table; }
+.footer_ul2_amrc li a:hover { text-decoration:none;}
+.footer_ul2_amrc li i { margin-top:5px;}
+
+.bottom_border { border-bottom:1px solid #e5cfcf; padding-bottom:20px;}
+.foote_bottom_ul_amrc {
+	list-style-type:none;
+	padding:0px;
+	display:table;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-left: auto;
+}
+.foote_bottom_ul_amrc li { display:inline;}
+.foote_bottom_ul_amrc li a { color:#e5cfcf; margin:0 12px;}
+
+.social_footer_ul { display:table; margin:15px auto 0 auto; list-style-type:none;  }
+.social_footer_ul li { padding-left:20px; padding-top:10px; float:left; }
+.social_footer_ul li a { color:#e5cfcf; border:1px solid #e5cfcf; padding:8px;border-radius:50%;}
+.social_footer_ul li i {  width:20px; height:20px; text-align:center;}
+.imagen12{
+  width: 250px;
+  height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
